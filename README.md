@@ -30,12 +30,12 @@ O projeto de um aplicativo de viagens. Seu companheiro ideal para explorar os de
 ## Tecnologias Usadas 
 - [Miro](https://miro.com)
 - [Canva](https://Canva.com)
-- [Wondershare Filmora]
+- [Wondershare Filmora](https://filmora.wondershare.com.br/).
 
 ## Contribuição
 
 ## Autores
--[Allan Narcizo](https://github.com/AllanNarcizo)
+- [Allan Narcizo](https://github.com/AllanNarcizo)
 
 ## Licença
 Copyright 2023 Allan Oliveira Narcizode Oliveira
