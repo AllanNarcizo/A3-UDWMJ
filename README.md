@@ -1,8 +1,7 @@
-# Titulo
+# RotaReal - Encontre seus Destinos
 
 ## Sobre o projeto
-
-um p de descrição sobre o projeto.
+O projeto de um aplicativo de viagens. Seu companheiro ideal para explorar os destinos mais incríveis do Brasil e do mundo.
 
 ## Sumário
 
@@ -16,16 +15,38 @@ um p de descrição sobre o projeto.
 * [Agradecimentos](https://github.com/AllanNarcizo/A3-UDWMJ/#Agradecimentos)<br/>
 
 ## Requisitos Funcionais
-
-## Tecnologias Usadas
+- [X] Cadastro de Usuário e Perfil.
+- [X] Feed de Atividades e Interação Social.
+- [X] Avaliações e Comentários.
+- [X] Exploração por Categoria.
+- [X] Planejamento de Viagem e Lista de Desejos.
+- [X] Compartilhamento em Redes Sociais.
+- [X] Alertas de Preços e Promoções.
+- [X] Integração de Serviços de Reserva.
+- [X] Suporte a Múltiplos Idiomas e Moedas.
+- [X] Personalização de Itinerários Sugeridos.
+- [X] Realidade Aumentada (RA).
+  
+## Tecnologias Usadas 
+- [Miro](https://miro.com)
+- [Canva](https://Canva.com)
+- [Wondershare Filmora]
 
 ## Contribuição
 
 ## Autores
+-[Allan Narcizo](https://github.com/AllanNarcizo)
 
 ## Licença
+Copyright 2023 Allan Oliveira Narcizode Oliveira
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Agradecimentos
-
+Obrigado ao orientador por me permitir efetuar a avaliação individualmente.
 
 
