@@ -1,10 +1,9 @@
 # RotaReal - Encontre seus Destinos
 
 ## Sobre o projeto
-O projeto de um aplicativo de viagens. Seu companheiro ideal para explorar os destinos mais incríveis do Brasil e do mundo.
+O projeto de um aplicativo de viagens. Seu companheiro ideal para explorar os destinos mais incríveis do Brasil e do mundo, seja você um entusiasta de praias paradisíacas, cidades históricas ou aventuras na natureza, o RotaReal é projetado para atender a todos os gostos e preferências. Com uma interface intuitiva e a possibilidade de criar listas de desejos, ajudamos você a planejar a viagem dos seus sonhos.
 
 ## Sumário
-
 * [Sobre o projeto](https://github.com/AllanNarcizo/A3-UDWMJ/#Sobre-o-projeto)<br/>
 * [Sumário](https://github.com/AllanNarcizo/A3-UDWMJ/#Sumário)<br/>
 * [Requisitos Funcionais](https://github.com/AllanNarcizo/A3-UDWMJ/#Requisitos-funcionais)<br/>
